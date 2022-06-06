@@ -39,7 +39,11 @@ border-bottom: 1px solid #ffffff;
 color: #ffffff; 
 background-color: #28365b;
 border-color: #202b49;
-text-decoration: nonw;
+text-decoration: none;
+}
+
+.benefits-container a{
+text-decoration: none;
 }
 
 id-btn-3:hover {
