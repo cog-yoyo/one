@@ -61,3 +61,7 @@ color: #ffffff;
 .bentable {
 color: #f6606a;  
 }
+
+.benefits-table ul li div i{
+color: #f6606a!important;   
+}
