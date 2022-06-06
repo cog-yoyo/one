@@ -5,9 +5,17 @@ background-color: #437d88;
 border-color: #376770;
 }
 
-.id-btn-1{
+.id-btn-2:hover{
+background-color: #4c8c99;  
+}
+
+.id-btn-1 {
 background-color: #8D5583;
 border-color: #8D5583;
+}
+
+.id-btn-1:hover {
+ background-color: #8D5583; 
 }
 
 .kymitems p{
@@ -30,6 +38,10 @@ border-bottom: 1px solid #ffffff;
 .id-btn-3 {
 background-color: #28365b;
 border-color: #202b49;
+}
+
+id-btn-3:hover {
+background-color: #202b49; 
 }
 
 footer-bg {
