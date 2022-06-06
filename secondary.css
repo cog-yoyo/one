@@ -18,6 +18,17 @@ border-color: #8D5583;
  background-color: #8D5583; 
 }
 
+.id-btn-3 {
+color: #ffffff; 
+background-color: #28365b;
+border-color: #202b49;
+text-decoration: none;
+}
+
+id-btn-3:hover {
+background-color: #202b49; 
+}
+
 .kymitems p{
 color: #ffffff;
 }
@@ -35,19 +46,8 @@ margin: 0px 28px 0px; 0px;
 border-bottom: 1px solid #ffffff;   
 }
 
-.id-btn-3 {
-color: #ffffff; 
-background-color: #28365b;
-border-color: #202b49;
-text-decoration: none;
-}
-
 .benefits-container a{
 text-decoration: none;
-}
-
-id-btn-3:hover {
-background-color: #202b49; 
 }
 
 footer-bg {
