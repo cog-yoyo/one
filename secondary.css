@@ -83,3 +83,7 @@ color: #f6606a;
 .benefits-table ul li div i{
 color: #f6606a!important;   
 }
+
+.documents-table tbody tr td i {
+ color: #f6606a!important; 
+}
