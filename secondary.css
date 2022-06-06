@@ -22,11 +22,20 @@ width: 140px;
 width: 140px;
 }
 
-.header-fixed{
+.header-fixed {
 border-bottom: 1px solid #ffffff;   
 }
 
-.id-btn-3{
-background-color: #28365b;
-border-color: #202b49;
+.id-btn-3 {
+background-color: #28365b!important;
+border-color: #202b49!important;
+}
+
+footer .footer-bottom{
+background: #27355aImportant;
+border-bottom: solid 50px #222c47!important;  
+}
+
+footer .footer-top{
+background: #f6606a!important;  
 }
