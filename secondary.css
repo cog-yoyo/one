@@ -87,3 +87,7 @@ color: #f6606a!important;
 .documents-table tbody tr td i {
  color: #f6606a!important; 
 }
+
+.contact-container a:hover {
+color: #f6606a;
+}
