@@ -6,6 +6,7 @@ border-color: #376770;
 }
 
 .id-btn-2:hover{
+color: #ffffff;
 background-color: #4c8c99;  
 }
 
@@ -15,7 +16,8 @@ border-color: #8D5583;
 }
 
 .id-btn-1:hover {
- background-color: #8D5583; 
+color: #ffffff;
+background-color: #8D5583; 
 }
 
 .id-btn-3 {
@@ -26,6 +28,7 @@ text-decoration: none;
 }
 
 id-btn-3:hover {
+color: #ffffff; 
 background-color: #202b49; 
 }
 
