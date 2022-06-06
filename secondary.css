@@ -14,10 +14,19 @@ border-color: #8D5583;
 color: #ffffff;
 }
 
-.logo {
-    width: 140px;
+.logo-new {
+width: 140px;
 }
 
-.logo img {
-    width: 140px;
+.logo-new img {
+width: 140px;
+}
+
+.header-fixed{
+border-bottom: 1px solid #ffffff;   
+}
+
+.id-btn-3{
+background-color: #28365b;
+border-color: #202b49;
 }
