@@ -28,12 +28,12 @@ border-bottom: 1px solid #ffffff;
 }
 
 .id-btn-3 {
-background-color: #28365b!important;
-border-color: #202b49!important;
+background-color: #28365b;
+border-color: #202b49;
 }
 
 footer-bg {
-background: #27355a;
+background-color: #27355a;
 border-bottom: solid 50px #222c47;  
 }
 
@@ -43,4 +43,9 @@ color: #ffffff;
 
 .id-num{
 color: #ffffff; 
+}
+
+.site-footer{
+background-color: #27355a;
+border-bottom: solid 50px #222c47;  
 }
