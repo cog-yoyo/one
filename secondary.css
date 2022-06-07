@@ -125,6 +125,9 @@ padding-top: 28px;
  padding-top: 50px;
  padding-bottom: 60px;
 }
+ .home-section p {
+ line-height: 22px;
+}
 .header-fixed div:last-of-type i {
  color: #ffffff;
 }
