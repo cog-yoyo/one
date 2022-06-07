@@ -114,18 +114,18 @@ padding-top: 28px;
 }
 
 @media only screen and (max-width: 600px) {
-  .header-btn{
+  .header-btn {
    display: none;
  }
  .home-section h1 {
   color: #ffffff;
   font-size: 50px;
  }
- .home-section}
+ .home-section {
  padding-top: 50px;
  padding-bottom: 50px;
 }
-.header-fixed div:last-of-type i{
- color: #ffffff;
+.header-fixed div:last-of-type i {
+ color: #ffffff!important;
 }
 }
