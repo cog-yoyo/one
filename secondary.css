@@ -123,9 +123,9 @@ padding-top: 28px;
  }
  .home-section {
  padding-top: 50px;
- padding-bottom: 50px;
+ padding-bottom: 60px;
 }
 .header-fixed div:last-of-type i {
- color: #ffffff!important;
+ color: #ffffff;
 }
 }
