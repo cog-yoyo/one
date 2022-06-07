@@ -117,4 +117,8 @@ padding-top: 28px;
   .header-btn{
    display: none;
  }
+ .home-section h1 {
+  color: #ffffff;
+  font-size: 50px;
+ }
 }
