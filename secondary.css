@@ -83,6 +83,10 @@ color: #ffffff;
 color: #f6606a;  
 }
 
+.footerNav ul li:first-of-type {
+ color: #f6606a!important; 
+}
+
 .benefits-table ul li div i{
 color: #f6606a!important;   
 }
