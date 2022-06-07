@@ -113,6 +113,10 @@ font-family: 'kanitlight', sans-serif;
 padding-top: 28px;
 }
 
+.header-fixed div:last-of-type i {
+ color: #ffffff;
+}
+
 @media only screen and (max-width: 600px) {
   .header-btn {
    display: none;
