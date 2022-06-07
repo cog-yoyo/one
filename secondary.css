@@ -94,3 +94,8 @@ color: #f6606a!important;
 .contact-container a:hover {
 color: #f6606a;
 }
+
+.home-section{
+padding-top: 60px;
+padding-bottom: 60px;
+}
