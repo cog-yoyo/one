@@ -95,7 +95,15 @@ color: #f6606a!important;
 color: #f6606a;
 }
 
-.home-section{
-padding-top: 60px;
-padding-bottom: 60px;
+.home-section {
+padding-top: 80px;
+padding-bottom: 80px;
+}
+
+.home-section h1 {
+color: #ffffff;
+}
+
+.home-section p {
+font-weight: 200;
 }
