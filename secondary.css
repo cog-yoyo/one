@@ -137,6 +137,11 @@ padding-top: 28px;
  font-family: 'kanitlight', sans-serif;
 }
 
+@media screen and (max-width: 774px)
+.menu-display ul li {
+    border-bottom: 1px solid #4c8c99!important;
+}
+
 @media only screen and (max-width: 600px) {
   .header-btn {
    display: none;
