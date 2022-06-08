@@ -99,6 +99,10 @@ color: #f6606a!important;
  font-family: 'kanitlight', sans-serif;
 }
 
+.menu-display ul li:hover {
+background-color: #549caa!important;
+}
+
 .documents-table tbody tr td i {
  color: #f6606a!important; 
 }
