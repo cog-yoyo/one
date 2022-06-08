@@ -25,6 +25,11 @@ color: #ffffff;
 background-color: #28365b;
 border-color: #202b49;
 text-decoration: none;
+margin: auto;
+border-radius: 4px;
+border: none;
+padding: 5px 20px;
+text-decoration: none;
 }
 
 .id-btn-3:hover {
