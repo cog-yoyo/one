@@ -141,6 +141,10 @@ color: #ffffff;
  padding: 0em 2em;
 }
 
+.policydocs-container p {
+ font-family: 'kanitlight', sans-serif;
+}
+
 .home-section p {
 font-weight: 200;
 font-family: 'kanitlight', sans-serif;
