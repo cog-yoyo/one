@@ -150,6 +150,10 @@ font-weight: 200;
 font-family: 'kanitlight', sans-serif;
 }
 
+.boldtext {
+ font-weight: bold;
+}
+
 .quotebtns {
 padding-top: 28px;
 }
