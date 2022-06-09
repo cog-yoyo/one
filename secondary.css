@@ -137,6 +137,10 @@ padding-bottom: 200px;
 color: #ffffff;
 }
 
+ul li {
+ font-family: 'kanitlight', sans-serif;
+}
+
 .policydocs-container {
  padding: 0em 2em;
 }
