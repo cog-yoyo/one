@@ -137,6 +137,10 @@ padding-bottom: 200px;
 color: #ffffff;
 }
 
+.policydocs-container {
+ padding: 0em 2em;
+}
+
 .home-section p {
 font-weight: 200;
 font-family: 'kanitlight', sans-serif;
