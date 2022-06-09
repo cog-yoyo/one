@@ -129,6 +129,10 @@ padding-bottom: 200px;
  font-family: 'kanitlight', sans-serif;
 }
 
+.accordion__content li {
+ font-family: 'kanitlight', sans-serif;
+}
+
 .home-section h1 {
 color: #ffffff;
 }
