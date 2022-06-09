@@ -121,6 +121,14 @@ padding-top: 200px;
 padding-bottom: 200px;
 }
 
+.faq-group__heading {
+ color: #f6606a!important;
+}
+
+.accordion__content p {
+ font-family: 'kanitlight', sans-serif;
+}
+
 .home-section h1 {
 color: #ffffff;
 }
