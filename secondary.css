@@ -194,3 +194,14 @@ padding-top: 28px;
  color: #ffffff;
 }
 }
+
+.lightshad{
+background: #FFFFFF;
+box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+border-radius: 15px;
+}
+.nobox{
+border: none !important;
+ box-shadow: none !important;
+ 
+}
