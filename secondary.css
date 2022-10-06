@@ -207,7 +207,8 @@ box-shadow: none !important;
 .nobox h3{
 color: #28365B;
 font-size: 40px;
-font-weight: 700; 
+font-weight: 700;
+text-align: left; 
 }
 .nobox p{
 font-size: 19px;
