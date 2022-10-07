@@ -194,7 +194,7 @@ padding-top: 28px;
  color: #ffffff;
 }
 }
-
+/* Phase 2 */
 .lightshad{
 background: #FFFFFF;
 box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
@@ -225,4 +225,8 @@ border: 1px solid #ffffff !important;
 }
 .desc2{
 margin-top: -40px; 
+}
+
+.id-btn-3{
+background-color: #569BA8 !important;
 }
