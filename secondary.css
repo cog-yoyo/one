@@ -20,23 +20,6 @@ color: #ffffff;
 background-color: #8D5583; 
 }
 
-.id-btn-3 {
-color: #ffffff; 
-background-color: #569BA8 !important;
-border-color: #202b49;
-text-decoration: none;
-margin: auto;
-border-radius: 17px;
-border: none;
-padding: 5px 20px;
-text-decoration: none;
-}
-
-.id-btn-3:hover {
-color: #ffffff; 
-background-color: #202b49; 
-}
-
 .kymitems p{
 color: #ffffff;
 }
@@ -225,4 +208,21 @@ border: 1px solid #ffffff !important;
 }
 .desc2{
 margin-top: -40px; 
+}
+
+.id-btn-3 {
+color: #ffffff; 
+background-color: #569BA8 !important;
+border-color: #202b49;
+text-decoration: none;
+margin: auto;
+border-radius: 17px;
+border: none;
+padding: 5px 20px;
+text-decoration: none;
+}
+
+.id-btn-3:hover {
+color: #ffffff; 
+background-color: #202b49; 
 }
