@@ -352,6 +352,19 @@ font-size: 19px;
     .benefits-grid-container .card-container {
     flex-direction: column;
 }
+	.col-6{
+	flex 0 0 100%;
+	max-width: 100%;
+	}
+	.wrapper [class*="col-"]:nth-child(4n-3) .inner {
+	display: none;
+}
+
+.wrapper [class*="col-"]:nth-child(4n-4) .inner {
+	display: none;
+}
+	
+}
 }@media screen and (max-width:950px) {
     .get-a-quote-container {
     display: none;
