@@ -311,11 +311,10 @@ font-size: 19px;
 }
 
 .benefits-grid-container img {
-	border: 1px solid 	
+	border: 20px solid #FEF9FA;	
 }
 
 .benefits-grid-container .h1, .benefits-grid-container h1 {
-    font-family: Nunito;
     color: #f6606a;
 }
 
