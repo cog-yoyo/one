@@ -1,0 +1,301 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanitlight:wght@200&display=swap');
+
+.id-btn-2{
+background-color: #437d88;
+border-color: #376770;
+}
+
+.id-btn-2:hover{
+color: #ffffff;
+background-color: #4c8c99;  
+}
+
+.id-btn-1 {
+background-color: #8D5583;
+border-color: #8D5583;
+}
+
+.id-btn-1:hover {
+color: #ffffff;
+background-color: #8D5583; 
+}
+
+.kymitems p{
+color: #ffffff;
+}
+
+.logo-new {
+width: 140px;
+}
+
+.logo-new img {
+width: 140px;
+margin-left: 14%; 
+}
+
+.header-fixed {
+border-bottom: 1px solid #ffffff;   
+}
+
+.benefits-container a{
+text-decoration: none;
+}
+
+footer-bg {
+background-color: #27355a;
+border-bottom: solid 50px #222c47;  
+}
+
+.getintouch{
+color: #ffffff;  
+}
+
+.id-num h2{
+color: #ffffff; 
+}
+
+.id-num{
+color: #ffffff; 
+}
+
+.site-footer{
+background-color: #27355a;
+border-bottom: solid 50px #222c47;  
+}
+
+.numcon {
+color: #ffffff; 
+}
+
+.bentable {
+color: #f6606a;  
+}
+
+.footerNav ul li:first-of-type {
+ color: #f6606a!important; 
+}
+
+.benefits-table ul li div i{ 
+color: #f6606a!important;   
+}
+
+.benefits-table ul li div p {
+ color: #000;
+}
+
+.benefits-text p {
+ font-family: 'kanitlight', sans-serif;
+}
+
+.menu-display ul li:hover {
+background-color: #549caa!important;
+}
+
+.documents-table tbody tr td i {
+ color: #f6606a!important; 
+}
+
+.contact-container a:hover {
+color: #f6606a;
+}
+
+.home-section {
+padding-top: 200px;
+padding-bottom: 200px;
+}
+
+.faq-group__heading {
+ color: #f6606a!important;
+}
+
+.accordion__content p {
+ font-family: 'kanitlight', sans-serif;
+}
+
+.accordion__content li {
+ font-family: 'kanitlight', sans-serif;
+}
+
+.home-section h1 {
+color: #ffffff;
+}
+
+ul li {
+ font-family: 'kanitlight', sans-serif;
+}
+
+.policydocs-container {
+ padding: 0em 2em;
+}
+
+.policydocs-container p {
+ font-family: 'kanitlight', sans-serif;
+}
+
+.home-section p {
+font-weight: 200;
+font-family: 'kanitlight', sans-serif;
+}
+
+.boldtext {
+ font-weight: bold;
+}
+
+.quotebtns {
+padding-top: 28px;
+}
+
+.header-fixed div:last-of-type i {
+ color: #ffffff;
+}
+
+.section-container p {
+ font-family: 'kanitlight', sans-serif;
+}
+
+@media screen and (max-width: 774px)
+.menu-display ul li {
+    border-bottom: 1px solid #4c8c99!important;
+}
+
+@media only screen and (max-width: 775px) {
+  .header-btn {
+   display: none;
+ }
+ .home-section h1 {
+  color: #ffffff;
+  font-size: 50px;
+ }
+ .home-section {
+ padding-top: 50px;
+ padding-bottom: 60px;
+}
+ .home-section p {
+ line-height: 22px;
+}
+.header-fixed div:last-of-type i {
+ color: #ffffff;
+}
+}
+/* Phase 2 */
+.lightshad{
+background: #FFFFFF;
+box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.1);
+border-radius: 15px;
+}
+.nobox{
+border: none !important;
+box-shadow: none !important;
+margin-bottom: -100px;
+}
+.nobox h3{
+color: #28365B;
+font-size: 42px;
+font-weight: 700;
+text-align: left; 
+}
+.nobox p{
+font-size: 19px;
+color: #28365B;
+font-weight: 500;
+line-height: 20px;
+text-align: left !important;
+margin-top: 6px !important; 
+}
+.card-body{
+height: 372px !important;
+border: 1px solid #ffffff !important; 
+}
+.desc2{
+margin-top: -40px; 
+}
+
+.id-btn-3 {
+color: #ffffff; 
+background-color: #569BA8 !important;
+border-color: #202b49;
+text-decoration: none;
+margin: auto;
+border-radius: 17px;
+border: none;
+padding: 5px 20px;
+text-decoration: none;
+}
+
+.id-btn-3:hover {
+color: #ffffff; 
+background-color: #202b49; 
+}
+
+.insuredtoday h3 {
+color: #ffffff;
+font-weight: 700;
+font-size: 40px; 
+}
+
+.insuredtodaybtn {
+font-size: 19px;
+}
+
+.wrapper {
+	width: 100%;
+}
+
+.inner {
+	background: black;
+	height: 560px;
+}
+
+.wrapper [class*="col-"]:nth-child(4n-2) .inner {
+	background: #28365B;
+	background-image: url(https://static.mbshosting.co.uk/cog-yoyo-bw/media/rightvec.png); background-position: center; 
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-position: bottom -515px right;
+}
+
+.wrapper [class*="col-"]:nth-child(4n-1) .inner {
+	background: #28365B;
+	background-image: url(https://static.mbshosting.co.uk/cog-yoyo-bw/media/rightvector.png); background-position: center; 
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+
+.wrapper [class*="col-"]:nth-child(4n-3) .inner {
+	background-image: url(https://images.unsplash.com/photo-1485712207830-8a665e701494?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHBlcnNvbiUyMG9uJTIwcGhvbmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60); background-size: cover;
+}
+
+.wrapper [class*="col-"]:nth-child(4n-4) .inner {
+	background-image: url(https://images.unsplash.com/photo-1619722049858-841f43259e99?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8d29tYW4lMjBkcml2aW5nfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60); background-size: cover;
+}
+
+.norow{
+	position: absolute;
+	content:"";
+	width: 100%;
+	height: 100%;
+	background-image: url(https://static.mbshosting.co.uk/cog-yoyo-bw/media/Vector%208-2.png); background-size: cover;
+	background-repeat:no-repeat; 
+  background-position: center;
+  background-size: contain;
+}
+
+.text, .textright{
+	color: #ffffff;
+	text-align: left;
+}
+
+.text h3, p{
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 40px;
+}
+
+.textright h3, p{
+	width: 60%;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 40px;
+	background-image: url(); background-position: left-bottom; 
+}
