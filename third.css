@@ -280,12 +280,12 @@ font-size: 19px;
   background-size: contain;
 }
 
-.text, .textright{
+.chesstext, .textright{
 	color: #ffffff;
 	text-align: left;
 }
 
-.text h3, p{
+.chesstext h3, p{
 	width: 60%;
 	margin-left: auto;
 	margin-right: auto;
