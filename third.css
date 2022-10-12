@@ -315,6 +315,7 @@ font-size: 19px;
 	border-radius: 50%;
 	width: 130px;
 	height: 130px;
+	margin: auto;
 }
 
 .benefits-grid-container .card-body {
