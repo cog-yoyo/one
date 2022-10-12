@@ -285,14 +285,14 @@ font-size: 19px;
 	text-align: left;
 }
 
-.chesstext h3, p{
+.chesstext h3, .chesstext p{
 	width: 60%;
 	margin-left: auto;
 	margin-right: auto;
 	padding-top: 40px;
 }
 
-.textright h3, p{
+.textright h3, .textright p{
 	width: 60%;
 	margin-left: auto;
 	margin-right: auto;
