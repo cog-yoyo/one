@@ -314,6 +314,11 @@ font-size: 19px;
 	border: 20px solid #FEF9FA;	
 }
 
+.benefits-grid-container {
+	box-shadow: none;
+	border: none;
+}
+
 .benefits-grid-container .h1, .benefits-grid-container h1 {
     color: #f6606a;
 }
