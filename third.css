@@ -299,3 +299,38 @@ font-size: 19px;
 	padding-top: 40px;
 	background-image: url(); background-position: left-bottom; 
 }
+
+.benefits-grid-container {
+    padding: 4em 2em;
+    text-align: center;
+}
+.benefits-grid-container .h1, .benefits-grid-container h1 {
+    font-family: Nunito;
+    color: #f6606a;
+}
+.benefits-grid-container .card-container {
+    display: flex;
+    width: 90%;
+    margin: auto;
+}
+@media screen and (min-width:950px) {
+    .benefits-grid-container .card-container {
+    width: 80%}
+}@media screen and (min-width:1139px) {
+    .benefits-grid-container .card-container {
+    width: 60%}
+}@media screen and (max-width:775px) {
+    .benefits-grid-container .card-container {
+    flex-direction: column;
+}
+}@media screen and (max-width:950px) {
+    .get-a-quote-container {
+    display: none;
+}
+}.get-a-quote-container div:last-of-type {
+    width: 50%}
+@media screen and (min-width:1305px) {
+    .get-a-quote-containerdiv: last-of-type {
+    max-width: 600px;
+}
+}
