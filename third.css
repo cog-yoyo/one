@@ -266,7 +266,7 @@ font-size: 19px;
 }
 
 .wrapper [class*="col-"]:nth-child(4n-4) .inner {
-	background-image: url(https://static.nusianu.com/media/fiat.jpeg); background-size: cover;
+	background-image: url(https://static.nuscdn.com/media/fiat.jpeg); background-size: cover;
 }
 
 .norow{
