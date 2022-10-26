@@ -327,6 +327,12 @@ font-size: 19px;
     color: #f6606a;
 }
 
+.benefits-grid-text{
+	font-size: 23px;
+	font-weight: 700;
+	line-height: 112%;
+}
+
 .imgcircle {
 	border: 1px solid #ffffff;
 	border-radius: 50%;
