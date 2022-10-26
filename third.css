@@ -331,10 +331,16 @@ font-size: 19px;
     color: #f6606a;
 }
 
-.benefits-grid-text{
+.benefits-grid-heading{
 	font-size: 23px;
 	font-weight: 700;
 	line-height: 112%;
+}
+
+.benefits-grid-text{
+	font-size: 16px;
+	font-weight: 400;
+	line-height: 143.4%;
 }
 
 .imgcircle {
