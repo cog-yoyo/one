@@ -68,7 +68,7 @@ color: #ffffff;
 }
 
 .new-drivers-section{
-	margin-top: 15px;
+	margin-top: 25px;
 }
 
 .bentable {
@@ -391,4 +391,9 @@ font-size: 19px;
     .get-a-quote-containerdiv: last-of-type {
     max-width: 600px;
 }
+}
+
+.home-faq-section {
+	background-image: url(https://static.mbshosting.co.uk/cog-yoyo-bw/media/faq-section.png); background-size: cover;
+	background-repeat:no-repeat;		
 }
